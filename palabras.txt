@@ -1,0 +1,18 @@
+
+---
+
+### `palabras.txt`
+
+Aquí tienes un ejemplo de `palabras.txt` con 10 palabras, una por línea:
+
+```plaintext
+manzana
+perro
+gato
+elefante
+banana
+zorro
+jirafa
+león
+tigre
+mariposa
